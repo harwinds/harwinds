@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Harwinder Sandhu 👋
 
-<!--
-**harwinds/harwinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=logsec.cloud&style=for-the-badge&url=https%3A%2F%2Fwww.logsec.cloud)](https://www.logsec.cloud)
 
-Here are some ideas to get you started:
+[<img align="left" alt="logsec.cloud" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][logsec.cloud]
+[<img align="left" alt="Harwinder Sandhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+---   
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[logsec.cloud]: https://www.logsec.cloud
+[linkedin]: https://linkedin.com/in/harwinder.sandhu
