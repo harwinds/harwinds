@@ -24,4 +24,4 @@
 
 
 [logsec.cloud]: https://www.logsec.cloud
-[linkedin]: https://linkedin.com/in/harwinder.sandhu
+[linkedin]: https://www.linkedin.com/in/harwinder-sandhu
